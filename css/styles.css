@@ -1,0 +1,45 @@
+/*
+
+*/
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  background: #f9f9f9;
+}
+
+body {
+  background: #f9df9d;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+}
+
+#left {
+  float: left;
+  width: 200px;
+}
+
+ul#menu {
+  padding: 0;
+  margin: 0;
+}
+
+#right {
+  margin-left: 200px;
+}
+
+.clear {
+  overflow: hidden;
+}
+
+footer {
+  clear: both;
+  font-family: Verdana;
+  font-size: 12px;
+  text-align: center;
+}
