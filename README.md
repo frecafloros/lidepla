@@ -1,3 +1,3 @@
 # lidepla
 
-制作中…
+Lideplaの文法解説サイトを作る
