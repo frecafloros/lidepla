@@ -64,9 +64,45 @@ background-color: #f8cddb;
   overflow: hidden;
 }
 
+table , td, th {
+	border: 1px solid #595959;
+	border-collapse: collapse;
+}
+td, th {
+	padding: 3px;
+	height: 25px;
+}
+th {
+	background: #f0e6cc;
+}
+
 footer {
   clear: both;
   font-family: Verdana;
   font-size: 12px;
   text-align: center;
+}
+
+h2 {
+  border-left: 6px solid;
+  border-bottom: 1px solid;
+  padding-left: 0.4em;
+}
+
+h3 {
+  border-left: solid;
+  border-bottom: 1px solid;
+  padding-left: 0.5em;
+}
+
+h5 {
+  font-weight: normal;
+}
+
+.syokyu {
+  border-color: #e64277;
+}
+
+.others {
+  border-color: #474655;
 }
